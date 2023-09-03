@@ -1,0 +1,58 @@
+[
+   {
+    "id" : 1,
+    "nombre" : "Árbol de levas",
+    "precio" : 250000,
+    "imagen" : "img/Arbol de Levas.webp",
+    "cantidad" : 1
+   } ,
+   {
+    "id" : 2,
+    "nombre" : "Carter",
+    "precio" : 100000,
+    "imagen" : "img/Carter.jpg",
+    "cantidad" : 1
+   } ,
+   {
+    "id" : 3,
+    "nombre" : "Kit de distribución",
+    "precio" : 150000,
+    "imagen" : "img/kit de distribucion.webp",
+    "cantidad" : 1
+   } ,
+   {
+    "id" : 4,
+    "nombre" : "Kit de filtros",
+    "precio" : 50000,
+    "imagen" : "img/Kit filtros.webp",
+    "cantidad" : 1
+   } ,
+   {
+    "id" : 5,
+    "nombre" : "Llantas",
+    "precio" : 200000,
+    "imagen" : "img/Llantas.webp",
+    "cantidad" : 1
+   } ,
+   {
+    "id" : 6,
+    "nombre" : "Paragolpe delantero",
+    "precio" : 25000,
+    "imagen" : "img/paragolpe delantero.webp",
+    "cantidad" : 1
+   } ,
+   {
+    "id" : 7,
+    "nombre" : "Subconjunto",
+    "precio" : 600000,
+    "imagen" : "img/Subconjunto.webp",
+    "cantidad" : 1
+   } ,
+   {
+    "id" : 8,
+    "nombre" : "Tapa de válvulas",
+    "precio" : 60000,
+    "imagen" : "img/Tapa de valvulas 2.jpg",
+    "cantidad" : 1
+   } 
+]
